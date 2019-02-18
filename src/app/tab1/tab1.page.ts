@@ -8,10 +8,4 @@ import { Component } from '@angular/core';
 
 
 })
-export class Tab1Page {
-	
-nome: string;
-
-this.nome = "Eduardo";
-
-}
+export class Tab1Page {}
